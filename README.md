@@ -86,6 +86,7 @@
 
 6.《MySQL高性能书籍_第3版》
 
+7.《MySQL技术内幕  InnoDB存储引擎  第2版》
 
 ## python   
 
