@@ -1,5 +1,9 @@
 # 面试必备书籍
 
+公众号首页(公众号二维码获取地址)[https://mp.weixin.qq.com/s/CSKBntZD8mlp5fG5TTL1Ww
+](https://mp.weixin.qq.com/s/CSKBntZD8mlp5fG5TTL1Ww
+)
+
 ## java       
 
 关注公众号 “程序员面试之道” 回复 “java书籍” 即可全部获取。
